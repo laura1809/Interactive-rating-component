@@ -18,7 +18,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://laura1809.github.io/QR-code-component/](https://laura1809.github.io/QR-code-component/)
+- Solution URL: [https://laura1809.github.io/Interactive-rating-component/](https://laura1809.github.io/Interactive-rating-component/)
 
 
 ### Built with
